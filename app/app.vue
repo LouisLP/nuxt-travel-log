@@ -1,7 +1,7 @@
 <template>
   <div>
     <button class="btn btn-secondary">
-      Secondary
+      View Map <Icon name="tabler:map" />
     </button>
   </div>
 </template>
