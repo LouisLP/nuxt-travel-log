@@ -23,6 +23,10 @@
     "vue-router": "^4.6.3"
   },
   "devDependencies": {
-    "husky": "^9.1.7"
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.6"
+  },
+  "lint-staged": {
+    "*": "pnpm lint"
   }
 }
